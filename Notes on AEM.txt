@@ -2,4 +2,9 @@
 > What is Adobe Experience Manager?
 	It’s a comprehensive content management solution for building websites, mobile apps and forms. And it makes it easy to manage your marketing content and assets.
 	
+>	Technology stack used in AEM
+	1.	Apache Sling  is a web application framework for content-centric applications, using a Java Content Repository, such as Apache Jackrabbit or CRX, to store and manage content.Sling:
+	2.	Apache Felix (OSGi implementation)
 
+	
+	E:\Test\alfre-git
